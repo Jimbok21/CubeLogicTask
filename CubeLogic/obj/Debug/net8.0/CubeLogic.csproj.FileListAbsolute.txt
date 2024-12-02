@@ -1,0 +1,17 @@
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\bin\Debug\net8.0\CubeLogic.exe
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\bin\Debug\net8.0\CubeLogic.deps.json
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\bin\Debug\net8.0\CubeLogic.runtimeconfig.json
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\bin\Debug\net8.0\CubeLogic.dll
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\bin\Debug\net8.0\CubeLogic.pdb
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\obj\Debug\net8.0\CubeLogic.csproj.AssemblyReference.cache
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\obj\Debug\net8.0\CubeLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\obj\Debug\net8.0\CubeLogic.AssemblyInfoInputs.cache
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\obj\Debug\net8.0\CubeLogic.AssemblyInfo.cs
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\obj\Debug\net8.0\CubeLogic.csproj.CoreCompileInputs.cache
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\obj\Debug\net8.0\CubeLogic.csproj.Up2Date
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\obj\Debug\net8.0\CubeLogic.dll
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\obj\Debug\net8.0\refint\CubeLogic.dll
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\obj\Debug\net8.0\CubeLogic.pdb
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\obj\Debug\net8.0\CubeLogic.genruntimeconfig.cache
+E:\Users\Jimmy\Documents\Job Documents\CubeLogic Task\CubeLogic\obj\Debug\net8.0\ref\CubeLogic.dll

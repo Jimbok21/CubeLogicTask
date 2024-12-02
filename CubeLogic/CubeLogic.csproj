@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- <Compile Include="Models\Config.cs" />
+    <Compile Include="Models\Instrument.cs" />
+    <Compile Include="Models\OutputTransaction.cs" />
+    <Compile Include="Models\Transaction.cs" /> -->
+    <!-- <Compile Include="Interfaces\IProgram.cs" /> -->
+    <Compile Include="FileAccessor\FileAccessor.cs" />
+    <Compile Include="Program\Program.cs" />
+    <Compile Include="Interfaces\**\*.cs" />
+    <Compile Include="Models\**\*.cs" />
+  </ItemGroup>
+</Project>
